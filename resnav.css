@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.pertama {
+  background-color: wheat;
+  color: gray;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.pertamak {
+  color: gray;
+  text-decoration: none;
+  font-size: 40px;
+  margin-left: 20px;
+}
+.pertamas {
+  color: gray;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 20px;
+  flex-direction: column;
+}
